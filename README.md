@@ -93,3 +93,13 @@ Planned additions include:
 - uncertainty-aware forecasting workflows
 - geoenergy system applications
 - digital twin-oriented monitoring analytics
+
+Environmental Risk Analytics
+
+Topics:
+- Natural Hazard Monitoring
+- Geothermal Systems
+- Risk Evolution
+- Uncertainty Quantification
+- Environmental Intelligence
+- Spatial Analytics
