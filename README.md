@@ -94,12 +94,17 @@ Planned additions include:
 - geoenergy system applications
 - digital twin-oriented monitoring analytics
 
-Environmental Risk Analytics
+# Environmental Monitoring Workflow Demo
 
-Topics:
-- Natural Hazard Monitoring
-- Geothermal Systems
-- Risk Evolution
-- Uncertainty Quantification
-- Environmental Intelligence
-- Spatial Analytics
+This notebook demonstrates a simplified workflow for environmental monitoring and risk evolution analysis.
+
+The workflow includes:
+
+- synthetic operational forcing data
+- monitoring response simulation
+- smoothing and derivative-based indicators
+- composite risk indicator construction
+- early warning threshold detection
+- visualization and export of results
+
+This example is inspired by monitoring problems in geoscience, environmental intelligence, and infrastructure risk assessment.
