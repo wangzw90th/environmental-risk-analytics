@@ -38,7 +38,20 @@ Cumulative operational forcing appears more predictive than instantaneous operat
 
 Example Figures
 
-Figure 5 — Correlation Heatmap
+## Figure 5. Correlation Heatmap
+
 ![Figure 5](Migration%20Figure/Figure5_Correlation_Heatmap.png)
-Figure 6 — Site-Specific Regression Analysis
+
+**Description**
+
+Pearson correlation coefficients between rolling migration fronts and operational variables across Soultz, Basel, and Utah FORGE.
+
+---
+
+## Figure 6. Site-Specific Regression Analysis
+
 ![Figure 6](Migration%20Figure/Figure6_Regression_Analysis.png)
+
+**Description**
+
+Regression relationships between migration-front evolution and operational forcing metrics for three geothermal stimulation experiments.
