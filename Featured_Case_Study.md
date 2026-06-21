@@ -1,4 +1,4 @@
-# Case Study 01  
+# Case Study 01
 ## Operational Controls on Seismic Migration
 
 ### Question
@@ -30,37 +30,25 @@ Can operational variables explain the evolution of seismic migration fronts duri
 - Operational forcing metrics
 - Risk-relevant interpretations
 
-### Key Findings
+### Workflow
 
-- Migration fronts show strong positive relationships with cumulative injected volume and hydraulic energy.
-- Correlations with instantaneous wellhead pressure are weaker and site-dependent.
-- Cumulative operational forcing appears more predictive than instantaneous operational conditions.
+Operational data
+→ Migration-front extraction
+→ Statistical analysis
+→ Monitoring indicators
+→ Decision support
 
-### Figure 5. Correlation Heatmap
+### Key Insights
 
-![Figure 5](Migration%20Figure/Figure5_Correlation_Heatmap.png)
+This workflow explores how operational forcing metrics can be linked to the evolution of seismic migration fronts during geothermal stimulation.
 
-**Description**  
-Pearson correlation coefficients between rolling migration fronts and operational variables across Soultz, Basel, and Utah FORGE.
+The framework is designed to support:
 
----
-
-### Figure 6. Site-Specific Regression Analysis
-
-![Figure 6](Migration%20Figure/Figure6_Regression_Analysis.png)
-
-**Description**  
-Regression relationships between migration-front evolution and operational forcing metrics for three geothermal stimulation experiments.
-
----
-
-### Operational Relevance
-
-This case study illustrates how seismic migration-front metrics can be used as interpretable monitoring indicators for geothermal stimulation projects.
-
-The workflow supports:
-
+- monitoring-system development
 - operational risk assessment
-- monitoring system design
-- comparison across geothermal sites
+- cross-site comparison
 - decision-oriented subsurface analytics
+
+### Status
+
+Ongoing research. Detailed results and quantitative findings will be presented in a future peer-reviewed publication.
